@@ -21,15 +21,18 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-<!-- ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Deepanshusharwan&show_icons=true&hide=&count_private=true&theme=github_dark&hide_border=true&show_icons=true&custom_title=My%20GitHub%20Stats&card_width=420px&rank_icon=github"
+## 📊 GitHub Stats
+
+<p>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Deepanshusharwan&show_icons=true&hide=&count_private=true&theme=github_dark&hide_border=true&show_icons=true&custom_title=My%20GitHub%20Stats&card_width=420px&rank_icon=github"></a>
   <a href="#"><img src="https://streak-stats.demolab.com/?user=Deepanshusharwan&theme=github_dark&date_format=M%20j[%2C%20Y]&hide_border=true&card_width=420px"></a>
-</p> -->
+</p>
 
