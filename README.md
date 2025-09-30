@@ -1,8 +1,8 @@
 # sys.stdout.write("Hello World 👋")
 
+<!--
 ## 💻 Skills
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=python,django,flask,fastapi,html,css,vim,git,github,postgresql,mysql,docker,postman,arch,pycharm,linux,vscode,)](https://skillicons.dev) -->
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -27,8 +27,6 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-
 ## 📊 GitHub Stats
 
 <p>
@@ -36,3 +34,4 @@
   <a href="#"><img src="https://streak-stats.demolab.com/?user=Deepanshusharwan&theme=github_dark&date_format=M%20j[%2C%20Y]&hide_border=true&card_width=420px"></a>
 </p>
 
+-->
